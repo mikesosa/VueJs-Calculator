@@ -2,7 +2,7 @@
 
 This is just a simple calculator created with VueJs for practicing purposes
 
-## Project setup
+## Project Installation
 ```
 npm install
 ```
@@ -26,16 +26,6 @@ npm run test
 ```
 npm run lint
 ```
-
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 
 ```python
@@ -52,4 +42,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[VUE](https://choosealicense.com/licenses/mit/)
