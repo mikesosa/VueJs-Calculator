@@ -20,7 +20,7 @@
     <div class="btn" @click="append('3')"><span>3</span></div>
     <div class="btn operator" @click="add"><span>+</span></div>
     <div class="btn zero" @click="append('0')"><span>0</span></div>
-    <div class="btn"@click="dot"><span>.</span></div>
+    <div class="btn" @click="dot"><span>.</span></div>
     <div class="btn operator" @click="result"><span>=</span></div>
   </div>
 </template>
