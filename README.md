@@ -1,4 +1,6 @@
 # VueJs Calculator
+### Demo https://mikesosa.github.io/CalculatorVuejs/
+
 This is just a simple calculator created with VueJs for practicing purposes
 ![calculator](https://user-images.githubusercontent.com/28121770/66344417-777f6980-e913-11e9-8095-01b038adde8f.png)
 
